@@ -1,2 +1,3 @@
-# my-own-games
-My Own Games - adult party game web app
+# My Own Games
+Adult party game (18+).
+Open index.html or enable GitHub Pages.
